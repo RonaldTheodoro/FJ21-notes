@@ -1,0 +1,6 @@
+*.jar
+*.class
+*.sqlite3
+build/
+/nbproject/private/
+/nbbuild/
